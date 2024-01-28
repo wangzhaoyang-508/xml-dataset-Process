@@ -7,6 +7,7 @@
    * converter.py
 *  xml_replace_label.py    重命名指定类别
 *  remove_class.py          移除指定类，可搭配功能4使用
+*  json2xml.py         新增功能，将.json格式的标签文件转换为多个xml文件
 
 **部分功能需要**：.xml与.jpg文件在同一个文件夹内
 
